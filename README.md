@@ -8,7 +8,7 @@ Game Mechanics-
   -Player can move on the X axis, as well as jump. Jump can only be activated if touching ground
   -Added animations (idle animation, jump animation)
   -Player can hop between the two dimensions using the S key (this is just an illution, player and the camera 
-  actually add 50 to their X positin, and the colour of the background changes colour)
+  actually add 50 to their X position, and the colour of the background changes)
   -I had to put a 0.01 second cooldown for the dimension jump, otherwise it executed both X position + 50 
   and X position - 50 at the same time leaving the player in same spot
   -End portal loads new scene
