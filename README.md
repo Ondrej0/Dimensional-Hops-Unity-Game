@@ -1,6 +1,6 @@
 # Dimensional-Hops-Unity-Game
 
-Hopping between two dimensions was an intresting concept and I thought I'd implemnt it in a 2D game. The mechanics were 
+Hopping between two dimensions was an intresting concept and I thought I'd implement it in a 2D game. The mechanics were 
 different enough from my first 2 games I thought I would learn new concepts. The aim of the game is to get to the finnishing 
 portal by hopping between 2 dimensions and jump over obstacles.
 
